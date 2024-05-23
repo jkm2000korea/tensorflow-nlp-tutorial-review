@@ -1,5 +1,3 @@
-# JaccardSimilarity
-
 # 자카드 유사도 (Jaccard Similarity)
 
 자카드 유사도(Jaccard Similarity)는 두 집합 간의 유사도를 측정하는 방법 중 하나입니다. 이는 두 집합의 교집합 크기를 합집합 크기로 나누어 계산합니다. 수식으로 표현하면 다음과 같습니다.
