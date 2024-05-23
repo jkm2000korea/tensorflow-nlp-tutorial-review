@@ -10,7 +10,9 @@ $$
 - \( A \)와 \( B \)는 비교하고자 하는 두 집합입니다.
 - \( |A \cap B| \)는 두 집합의 교집합의 크기입니다.
 - \( |A \cup B| \)는 두 집합의 합집합의 크기입니다.
-![Uploading image.png…]()
+
+![image](https://github.com/jkm2000korea/tensorflow-nlp-tutorial-review/assets/77305773/04df3892-0e4c-4a99-8087-2067f942485c)
+
 
 ## 예제
 
