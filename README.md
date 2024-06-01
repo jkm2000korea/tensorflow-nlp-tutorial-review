@@ -1,3 +1,15 @@
+# 소프트 맥스(SOFTMAX)
+
+- Softmax(소프트맥스)는 입력받은 값을 출력으로 0~1사이의 값으로 모두 정규화
+- 출력 값들의 총합은 항상 1이 되는 특성을 가진 함수
+- 분류하고 싶은 클래수의 수 만큼 출력으로 구성
+- 가장 큰 출력 값을 부여받은 클래스가 확률이 가장 높은 것으로 이용
+  
+![image](https://github.com/jkm2000korea/tensorflow-nlp-tutorial-review/assets/77305773/bd283a3b-c214-4114-b36b-20baaac980bc)
+(https://miro.medium.com/v2/resize:fit:1400/0*J8gIAZofl6MlfLUK.jpeg)
+
+
+
 # 자카드 유사도 (Jaccard Similarity)
 
 자카드 유사도(Jaccard Similarity)는 두 집합 간의 유사도를 측정하는 방법 중 하나입니다. 이는 두 집합의 교집합 크기를 합집합 크기로 나누어 계산합니다. 수식으로 표현하면 다음과 같습니다.
