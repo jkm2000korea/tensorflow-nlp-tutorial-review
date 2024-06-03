@@ -1,3 +1,10 @@
+# # Leaky ReLU 함수
+ np.maximum(a*x, x) 에서 a = 0.1 ~ 1.0
+
+ ![image](https://github.com/jkm2000korea/tensorflow-nlp-tutorial-review/assets/77305773/26442550-be2d-4ed8-ac3f-ca21f25b840c)
+
+
+
 # 소프트 맥스(SOFTMAX)
 
 - Softmax(소프트맥스)는 입력받은 값을 출력으로 0~1사이의 값으로 모두 정규화
