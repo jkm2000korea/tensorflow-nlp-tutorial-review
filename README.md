@@ -1,3 +1,12 @@
+# Word to Vector(Word2Vec)
+1) 거대한 텍스트 코퍼스를 가져옵니다.
+2) 한 번에 한 단어씩 이동하면서 슬라이딩 창으로 텍스트를 살펴봅니다.각 단계에는 중심 단어와 문맥 단어(창 크기 이내 다른 단어)가 있습니다.
+3) 중심 단어의 경우, 문맥 단어의 확률을 계산합니다.
+4) 이러한 확률을 높이려면 벡터를 조정합니다.
+   
+![image](https://github.com/jkm2000korea/tensorflow-nlp-tutorial-review/assets/77305773/4e9870c4-0df0-409e-9e27-e1db37f1ca6a)
+
+
 # # Leaky ReLU 함수
  np.maximum(a*x, x) 에서 a = 0.1 ~ 1.0
 
