@@ -1,3 +1,8 @@
+# huggingface tokenizer
+
+![image](https://github.com/jkm2000korea/tensorflow-nlp-tutorial-review/assets/77305773/1858002f-6bde-4732-b62c-90b09f0d7548)
+![image](https://github.com/jkm2000korea/tensorflow-nlp-tutorial-review/assets/77305773/97f4b380-85a0-4930-9733-c0fb611d0008)
+
 # Word to Vector(Word2Vec)
 1) 거대한 텍스트 코퍼스를 가져옵니다.
 2) 한 번에 한 단어씩 이동하면서 슬라이딩 창으로 텍스트를 살펴봅니다.각 단계에는 중심 단어와 문맥 단어(창 크기 이내 다른 단어)가 있습니다.
