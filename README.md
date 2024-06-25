@@ -1,7 +1,14 @@
 # huggingface tokenizer
+Hugging Face Tokenizers 오픈소스 라이브러리는 텍스트 생성, 요약, 번역 등과 같은 작업에 사용되는 인기 있는 변환기 모델의 토크나이저에 대한 액세스를 제공합니다.
 
+1) BERT의 WordPiece 토크나이저
+2) GPT-2의 바이트 수준 BPE 토크나이저
+3) T5의 SentencePiece 토크나이저
+4) 그리고 다른 많은 변환기의 토크나이저
+   
 ![image](https://github.com/jkm2000korea/tensorflow-nlp-tutorial-review/assets/77305773/1858002f-6bde-4732-b62c-90b09f0d7548)
-![image](https://github.com/jkm2000korea/tensorflow-nlp-tutorial-review/assets/77305773/97f4b380-85a0-4930-9733-c0fb611d0008)
+![image](https://github.com/jkm2000korea/tensorflow-nlp-tutorial-review/assets/77305773/260d25c8-4f71-4dfb-83e2-5b136e097ae8)
+
 
 # Word to Vector(Word2Vec)
 1) 거대한 텍스트 코퍼스를 가져옵니다.
